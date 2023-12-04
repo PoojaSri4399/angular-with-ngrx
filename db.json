@@ -1,0 +1,40 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Making India Awesome",
+      "author": "chetan bhagat",
+      "price": 388
+    },
+    {
+      "id": 2,
+      "title": "Tomb of Sand",
+      "author": "Geetanjali Shree's",
+      "price": 450
+    },
+    {
+      "id": 3,
+      "title": "The Queen of Indian Pop",
+      "author": "Usha Uthup",
+      "price": 367
+    },
+    {
+      "id": 4,
+      "title": "Spare",
+      "author": "J. R. Moehringer",
+      "price": 336
+    },
+    {
+      "id": 5,
+      "title": "Victory city",
+      "author": "Salman Rushdie",
+      "price": 543
+    },
+    {
+      "id": 6,
+      "title": "trail",
+      "author": "trail",
+      "price": 390
+    }
+  ]
+}
